@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of swader/lang-croatian.** Not for installation: use [Packagist](https://packagist.org/packages/swader/lang-croatian) or the [upstream repository](https://github.com/Swader/lang-croatian).
 
-**0** versions archived · Latest: [`v1.3`](https://github.com/flarchive/swader-lang-croatian/tree/archive/v1.3) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**4** versions archived · Latest: [`v1.3`](https://github.com/flarchive/swader-lang-croatian/tree/archive/v1.3) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.1` | 2020-11-19 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/swader-lang-croatian/tree/archive/v1.1) |
+| `v1.0` | 2020-06-04 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/swader-lang-croatian/tree/archive/v1.0) |
+| `v1.2` | 2020-11-20 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/swader-lang-croatian/tree/archive/v1.2) |
+| `v1.3` | 2020-12-04 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/swader-lang-croatian/tree/archive/v1.3) |
 
 Catalog entry: [packages/swader-lang-croatian.json](https://github.com/flarchive/archive-index/blob/main/packages/swader-lang-croatian.json)
 
